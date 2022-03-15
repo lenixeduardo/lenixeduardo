@@ -1,16 +1,13 @@
 # Hi there!   👋
 
-My name is Lenix Eduardo!
+Me chamo Lenix Eduardo!
 
- I'm a Student, looking for my first dev job!  👨🏻‍💻
-
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+Atualmente sou formado em desenvolvimento Web Full Stack, e Professor de Front End.
 
 
 - 📍 From SP 
 - 🖥 full stack web development 
-- 🔭 I’m currently working Support Analyst - Connectcom
-- 🌱 I’m currently learning Full stack Development
+
 
 -->
 
