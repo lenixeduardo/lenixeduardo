@@ -9,7 +9,7 @@ Atualmente sou formado em desenvolvimento Web Full Stack, e Professor de Front E
 - 🖥 full stack web development 
 
 
--->
+
 
 - 📫 How to reach me: 
 
