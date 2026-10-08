@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="600" viewBox="0 0 1800 600" role="img" aria-label="Eduardo Lenix core stacks: Frontend, Backend and AI, Data and infrastructure, UX and quality">
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A10"/><stop offset=".58" stop-color="#10151C"/><stop offset="1" stop-color="#1D1713"/></linearGradient>
+  <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F1B77C"/><stop offset="1" stop-color="#FF923D"/></linearGradient>
+  <radialGradient id="lamp"><stop stop-color="#B86A22" stop-opacity=".22"/><stop offset="1" stop-color="#B86A22" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#63707E" stroke-opacity=".13" stroke-width="1"/></pattern>
+</defs>
+<rect width="1800" height="600" fill="url(#background)"/>
+<rect width="1800" height="600" fill="url(#grid)"/>
+<ellipse cx="1630" cy="100" rx="590" ry="350" fill="url(#lamp)"/>
+<path d="M60 53h32" stroke="#F4A35A" stroke-width="5" stroke-linecap="round"/>
+<text x="105" y="60" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="4" fill="#C5CBD3">EDUARDO LENIX  /  ENGINEERING SYSTEMS</text>
+<text x="60" y="128" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" fill="#F7F7F8">Core <tspan fill="url(#amber)">Stack</tspan></text>
+<text x="62" y="169" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#ADB7C2">The tools behind the products — chosen for clarity, reliability, and real-world impact.</text>
+<g>
+   <rect x="60" y="194" width="408" height="288" rx="16" fill="#101723" fill-opacity=".96" stroke="#35404C" stroke-opacity=".85"/>
+   <rect x="60" y="194" width="6" height="288" rx="3" fill="#F59E52" opacity=".9"/>
+   <rect x="84" y="218" width="52" height="52" rx="12" fill="#F59E52" fill-opacity=".13" stroke="#F59E52" stroke-opacity=".5"/>
+   <text x="110" y="253" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#F59E52">01</text>
+   <text x="154" y="241" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="25" fill="#F9FAFB">FRONTEND</text>
+   <text x="154" y="269" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#A9B3C0">Interfaces with intention</text>
+   <path d="M84 294 H444" stroke="#2B3440"/>
+   <circle cx="97" cy="328" r="4" fill="#F59E52"/><text x="118" y="335" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">React  ·  TypeScript</text><circle cx="97" cy="364" r="4" fill="#F59E52"/><text x="118" y="371" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">JavaScript  ·  Vite</text><circle cx="97" cy="400" r="4" fill="#F59E52"/><text x="118" y="407" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Tailwind CSS</text><circle cx="97" cy="436" r="4" fill="#F59E52"/><text x="118" y="443" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Styled Components</text>
+  </g><g>
+   <rect x="486" y="194" width="408" height="288" rx="16" fill="#101723" fill-opacity=".96" stroke="#35404C" stroke-opacity=".85"/>
+   <rect x="486" y="194" width="6" height="288" rx="3" fill="#80D6AF" opacity=".9"/>
+   <rect x="510" y="218" width="52" height="52" rx="12" fill="#80D6AF" fill-opacity=".13" stroke="#80D6AF" stroke-opacity=".5"/>
+   <text x="536" y="253" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#80D6AF">02</text>
+   <text x="580" y="241" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="25" fill="#F9FAFB">BACKEND &amp; AI</text>
+   <text x="580" y="269" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#A9B3C0">Logic, agents &amp; automation</text>
+   <path d="M510 294 H870" stroke="#2B3440"/>
+   <circle cx="523" cy="328" r="4" fill="#80D6AF"/><text x="544" y="335" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Python  ·  FastAPI</text><circle cx="523" cy="364" r="4" fill="#80D6AF"/><text x="544" y="371" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Pydantic  ·  Tool calling</text><circle cx="523" cy="400" r="4" fill="#80D6AF"/><text x="544" y="407" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">RAG  ·  Agent workflows</text><circle cx="523" cy="436" r="4" fill="#80D6AF"/><text x="544" y="443" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">API orchestration</text>
+  </g><g>
+   <rect x="912" y="194" width="408" height="288" rx="16" fill="#101723" fill-opacity=".96" stroke="#35404C" stroke-opacity=".85"/>
+   <rect x="912" y="194" width="6" height="288" rx="3" fill="#7BC9FF" opacity=".9"/>
+   <rect x="936" y="218" width="52" height="52" rx="12" fill="#7BC9FF" fill-opacity=".13" stroke="#7BC9FF" stroke-opacity=".5"/>
+   <text x="962" y="253" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#7BC9FF">03</text>
+   <text x="1006" y="241" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="25" fill="#F9FAFB">DATA &amp; INFRA</text>
+   <text x="1006" y="269" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#A9B3C0">Reliable foundations</text>
+   <path d="M936 294 H1296" stroke="#2B3440"/>
+   <circle cx="949" cy="328" r="4" fill="#7BC9FF"/><text x="970" y="335" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">SQLite  ·  Supabase</text><circle cx="949" cy="364" r="4" fill="#7BC9FF"/><text x="970" y="371" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Docker  ·  Vercel</text><circle cx="949" cy="400" r="4" fill="#7BC9FF"/><text x="970" y="407" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Stripe  ·  CI/CD</text><circle cx="949" cy="436" r="4" fill="#7BC9FF"/><text x="970" y="443" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Data pipelines</text>
+  </g><g>
+   <rect x="1338" y="194" width="408" height="288" rx="16" fill="#101723" fill-opacity=".96" stroke="#35404C" stroke-opacity=".85"/>
+   <rect x="1338" y="194" width="6" height="288" rx="3" fill="#C3A3FF" opacity=".9"/>
+   <rect x="1362" y="218" width="52" height="52" rx="12" fill="#C3A3FF" fill-opacity=".13" stroke="#C3A3FF" stroke-opacity=".5"/>
+   <text x="1388" y="253" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#C3A3FF">04</text>
+   <text x="1432" y="241" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="25" fill="#F9FAFB">UX &amp; QUALITY</text>
+   <text x="1432" y="269" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#A9B3C0">Experience meets craft</text>
+   <path d="M1362 294 H1722" stroke="#2B3440"/>
+   <circle cx="1375" cy="328" r="4" fill="#C3A3FF"/><text x="1396" y="335" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Zustand  ·  shadcn/ui</text><circle cx="1375" cy="364" r="4" fill="#C3A3FF"/><text x="1396" y="371" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">GSAP  ·  Three.js</text><circle cx="1375" cy="400" r="4" fill="#C3A3FF"/><text x="1396" y="407" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Jest  ·  Testing</text><circle cx="1375" cy="436" r="4" fill="#C3A3FF"/><text x="1396" y="443" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E8EBEF">Responsive architecture</text>
+  </g>
+<path d="M60 532H1740" stroke="#323944"/>
+<text x="60" y="568" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#D6DEE7">IDEA</text>
+<path d="M130 561h66" stroke="#F59E52" stroke-width="2"/><path d="M185 552l12 9-12 9" fill="none" stroke="#F59E52" stroke-width="2"/>
+<text x="210" y="568" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#D6DEE7">ENGINEERING</text>
+<path d="M385 561h66" stroke="#F59E52" stroke-width="2"/><path d="M440 552l12 9-12 9" fill="none" stroke="#F59E52" stroke-width="2"/>
+<text x="465" y="568" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#D6DEE7">INTELLIGENCE</text>
+<path d="M654 561h66" stroke="#F59E52" stroke-width="2"/><path d="M709 552l12 9-12 9" fill="none" stroke="#F59E52" stroke-width="2"/>
+<text x="736" y="568" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#F4B477">IMPACT</text>
+<text x="1740" y="568" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#9BA7B5">LESS HYPE. MORE ENGINEERING.</text>
+</svg>
