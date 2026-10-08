@@ -1,12 +1,11 @@
 
 <div align="center">
   <img
-    src="./assets/github-banner.png"
+    src="./github-banner.png"
     alt="Eduardo Lenix | Software Engineer → AI Engineer"
     width="100%"
   />
 </div>
-
 
 - 📫 How to reach me: 
 
