@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="./github-banner.png"
+    src="https://raw.githubusercontent.com/lenixeduardo/lenixeduardo/main/github-banner.png"
     alt="Eduardo Lenix | Software Engineer → AI Engineer"
     width="100%"
   />
