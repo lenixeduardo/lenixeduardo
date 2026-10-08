@@ -52,9 +52,11 @@ The visual **Core Stack** above highlights my everyday tools. This expanded inve
   <img src="https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeORM-20232A?style=flat-square&logo=typeorm&logoColor=FE0803" alt="TypeORM" />
   <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-20232A?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
   <img src="https://img.shields.io/badge/MCP-20232A?style=flat-square" alt="Model Context Protocol" />
@@ -68,7 +70,7 @@ The visual **Core Stack** above highlights my everyday tools. This expanded inve
 
   **Frontend:** React · Next.js · HTML5 · CSS3 · Tailwind CSS · Styled Components · shadcn/ui · Vite · Zustand · Context API · Responsive Design · Design Systems
 
-  **Backend & integrations:** Node.js · Express · FastAPI · Pydantic · Sequelize · REST APIs · API Integration · Systems Integration
+  **Backend & integrations:** Node.js · Express · TypeORM · FastAPI · Pydantic · Sequelize · REST APIs · API Integration · Systems Integration
 
   **Desktop & mobile:** Electron · Windows Desktop Applications · Capacitor
 
