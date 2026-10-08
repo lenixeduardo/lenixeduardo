@@ -45,19 +45,62 @@ My current learning loop:
 
 ## Engineering toolkit
 
-The visual stack map above is the quick overview. Here is the searchable version:
+The visual **Core Stack** above highlights my everyday tools. This expanded inventory includes technologies from my professional experience and current AI engineering practice.
 
-<details>
-  <summary><strong>Explore technologies and practices</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
+  <img src="https://img.shields.io/badge/MCP-20232A?style=flat-square" alt="Model Context Protocol" />
+</p>
+
+<details open>
+  <summary><strong>Software engineering · frontend · backend · desktop</strong></summary>
   <br />
 
-  **Frontend & product:** React · TypeScript · JavaScript · Vite · Tailwind CSS · Styled Components · shadcn/ui · Zustand
+  **Languages:** JavaScript · TypeScript · Python · SQL
 
-  **Backend & AI:** Python · FastAPI · Pydantic · API integration · Agents · RAG · Tool calling · Automation
+  **Frontend:** React · Next.js · HTML5 · CSS3 · Tailwind CSS · Styled Components · shadcn/ui · Vite · Zustand · Context API · Responsive Design · Design Systems
 
-  **Data & infrastructure:** SQLite · Supabase · Docker · Vercel · Stripe · CI/CD
+  **Backend & integrations:** Node.js · Express · FastAPI · Pydantic · Sequelize · REST APIs · API Integration · Systems Integration
 
-  **Motion & quality:** GSAP · Three.js · Jest · Testing · Responsive UI · Component architecture
+  **Desktop & mobile:** Electron · Windows Desktop Applications · Capacitor
+
+  **Engineering practices:** Software Architecture · Component Architecture · Reusable Components · Code Review · Scalability · Maintainability · Monorepos
+
+</details>
+
+<details open>
+  <summary><strong>AI engineering · agents · models</strong></summary>
+  <br />
+
+  **AI Engineering:** AI Agents · Agentic Workflows · Generative AI · LLM Integration · Model Context Protocol (MCP) · Prompt Engineering · Structured Outputs · Schema Validation · AI Workflows · RAG · Tool Calling
+
+  **Models & providers:** Claude · OpenAI GPT · Google Gemini · DeepSeek · OpenRouter · Ollama · LM Studio
+
+</details>
+
+<details>
+  <summary><strong>Databases · cloud · automation · quality</strong></summary>
+  <br />
+
+  **Data:** PostgreSQL · MySQL · Redis · SQLite · Supabase · SQL
+
+  **Cloud & delivery:** AWS · Azure · Docker · Vercel · Git · GitHub · GitHub Actions · CI/CD · Stripe
+
+  **Automation:** n8n · Workflow Automation · GitHub Actions
+
+  **Testing & quality:** Vitest · Testing Library · Playwright · ESLint · Jest · Code Review
+
+  **Observability:** Sentry · PostHog
+
+  **Creative UI:** GSAP · Three.js
 
 </details>
 
