@@ -46,7 +46,7 @@ My current learning loop:
 
 ## Skill Kit · Engineering toolkit
 
-The visual **Core Stack** above highlights my everyday tools. This expanded inventory includes technologies from my professional experience and current AI engineering practice.
+The visual **Core Stack** above and this **Skill Kit** are aligned: the same core technologies and project-verified extensions appear in both. The detailed inventory below adds engineering context and related practices.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
