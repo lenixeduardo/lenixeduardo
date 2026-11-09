@@ -25,15 +25,16 @@ I care about the entire path: understanding the problem, designing a useful expe
 
 ## Selected work
 
-Projects that show the kind of problems I choose to solve — and the engineering decisions behind them.
+Real-world systems across industrial operations, AI-assisted service workflows, maintenance, and dependable backend engineering.
 
 | Project | The problem it tackles | Core engineering |
 | :--- | :--- | :--- |
-| **[Financial Research Agent](https://github.com/lenixeduardo/financial-research-agent)** | Research financial evidence with traceable sources and independent verification. | Python, FastAPI, RAG, tool calling, Pydantic, evals |
-| **[Financial Reconciliation Intelligence](https://github.com/lenixeduardo/Financial-Reconciliation-Intelligence)** | Reconcile financial records, surface exceptions, and support human review. | React, TypeScript, Python, FastAPI, deterministic matching |
-| **[Financial Aging Intelligence](https://github.com/lenixeduardo/financial-aging-intelligence)** | Turn receivables and due dates into aging analysis and clearer priorities. | React, TypeScript, Python, FastAPI, CSV/XLSX |
-| **[DataPulse](https://github.com/lenixeduardo/datapulse)** | Process asynchronous reports without blocking the application and validate external contracts. | Node.js, TypeScript, Express, Worker Threads, Zod, Docker |
-| **[scanTCG](https://github.com/lenixeduardo/Scantcg)** | Build a collectible-card product with a marketplace, inventory, and opening experiences. | React, Vite, Tailwind CSS, Supabase, Stripe |
+| **[Nexo Assist (Nexos)](https://github.com/lenixeduardo/nexo-assist)** | AI-assisted service desk with human-approved ticket changes, PostgreSQL-backed sessions, audit trails, and service handoff. Live model integration requires independent end-to-end validation. | Node.js, TypeScript, Mastra, Mistral, PostgreSQL, Supabase, Zod, Vercel |
+| **[labSerial](https://github.com/lenixeduardo/leitor-industrial)** | Desktop application for collecting industrial batch data from serial-connected equipment. Repository currently named `leitor-industrial`. | Electron, React, TypeScript, serialport, SQLite, electron-vite |
+| **[PORTUS](https://github.com/lenixeduardo/portus)** | Traceable production and laboratory readings, shared batch lifecycle, barcode workflows, and industrial equipment integration. | Electron, React, TypeScript, Node.js, PostgreSQL, serialport, Modbus RTU, Vitest |
+| **[KairOS](https://github.com/lenixeduardo/kairos)** | Maintenance management with QR-enabled work orders, role-based operations, and real-time visibility. | React, TypeScript, Node.js, Express, Prisma, PostgreSQL, JWT, Docker |
+| **[DataPulse](https://github.com/lenixeduardo/datapulse)** | Process CPU-intensive reporting jobs without blocking the event loop and validate external API contracts at runtime. | Node.js, TypeScript, Express, Worker Threads, Zod, Docker, Vitest |
+| **[scanTCG](https://github.com/lenixeduardo/Scantcg)** | Collectible-card marketplace and inventory experiences. | React, Vite, Tailwind CSS, Supabase, Stripe |
 
 ## Currently exploring
 
@@ -43,7 +44,7 @@ My current learning loop:
 
 `Understand the problem` → `Build a reliable system` → `Add intelligence deliberately` → `Evaluate` → `Improve`
 
-## Engineering toolkit
+## Skill Kit · Engineering toolkit
 
 The visual **Core Stack** above highlights my everyday tools. This expanded inventory includes technologies from my professional experience and current AI engineering practice.
 
@@ -60,6 +61,10 @@ The visual **Core Stack** above highlights my everyday tools. This expanded inve
   <img src="https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
   <img src="https://img.shields.io/badge/MCP-20232A?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Prisma-20232A?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Mastra-20232A?style=flat-square" alt="Mastra" />
+  <img src="https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Zod-20232A?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod" />
 </p>
 
 <details open>
@@ -70,9 +75,9 @@ The visual **Core Stack** above highlights my everyday tools. This expanded inve
 
   **Frontend:** React · Next.js · HTML5 · CSS3 · Tailwind CSS · Styled Components · shadcn/ui · Vite · Zustand · Context API · Responsive Design · Design Systems
 
-  **Backend & integrations:** Node.js · Express · TypeORM · FastAPI · Pydantic · Sequelize · REST APIs · API Integration · Systems Integration
+  **Backend & integrations:** Node.js · Express · TypeORM · Prisma · FastAPI · Pydantic · Zod · Sequelize · REST APIs · API Integration · Systems Integration · Worker Threads · JWT
 
-  **Desktop & mobile:** Electron · Windows Desktop Applications · Capacitor
+  **Desktop & mobile:** Electron · electron-vite · electron-builder · Windows Desktop Applications · Capacitor · Serial Port Integration · Modbus RTU · Barcode/QR Workflows
 
   **Engineering practices:** Software Architecture · Component Architecture · Reusable Components · Code Review · Scalability · Maintainability · Monorepos
 
@@ -82,9 +87,9 @@ The visual **Core Stack** above highlights my everyday tools. This expanded inve
   <summary><strong>AI engineering · agents · models</strong></summary>
   <br />
 
-  **AI Engineering:** AI Agents · Agentic Workflows · Generative AI · LLM Integration · Model Context Protocol (MCP) · Prompt Engineering · Structured Outputs · Schema Validation · AI Workflows · RAG · Tool Calling
+  **AI Engineering:** AI Agents · Agentic Workflows · Mastra · Generative AI · LLM Integration · Model Context Protocol (MCP) · Prompt Engineering · Structured Outputs · Schema Validation · AI Workflows · RAG · Tool Calling · Human-in-the-loop Approval · Model Evaluation · Persistent Audit Trails
 
-  **Models & providers:** Claude · OpenAI GPT · Google Gemini · DeepSeek · OpenRouter · Ollama · LM Studio
+  **Models & providers:** Mistral · Claude · OpenAI GPT · Google Gemini · DeepSeek · OpenRouter · Ollama · LM Studio
 
 </details>
 
@@ -92,13 +97,13 @@ The visual **Core Stack** above highlights my everyday tools. This expanded inve
   <summary><strong>Databases · cloud · automation · quality</strong></summary>
   <br />
 
-  **Data:** PostgreSQL · MySQL · Redis · SQLite · Supabase · SQL
+  **Data:** PostgreSQL · MySQL · Redis · SQLite · better-sqlite3 · Supabase · Prisma · SQL
 
   **Cloud & delivery:** AWS · Azure · Docker · Vercel · Git · GitHub · GitHub Actions · CI/CD · Stripe
 
   **Automation:** n8n · Workflow Automation · GitHub Actions
 
-  **Testing & quality:** Vitest · Testing Library · Playwright · ESLint · Jest · Code Review
+  **Testing & quality:** Vitest · Supertest · Node.js Test Runner · Testing Library · Playwright · ESLint · Jest · Code Review · Integration Tests
 
   **Observability:** Sentry · PostHog
 
